@@ -17,7 +17,7 @@ _**Disclaimer**_: The maintainers of this repository do not condone plagarism. A
 
 ## Contributing
 
-This repository is actively seeking projects from students.
+This repository is actively seeking projects from students. Please read this document carefully before contributing.
 
 ### Repository Structure
 
@@ -35,7 +35,7 @@ An example is given below:
 
 ### Pull Requests
 
-Please submit the links to your project by forking the repository and adding your changes in as few commits as possible. Please follow the structure in the sample directory.
+Please submit the links to your project by forking the repository and adding your changes in as few commits as possible. Please follow the structure in the sample directory. **Pull requests that do not follow these instructions will not be accepted.**
 
 ### Branch Naming
 
