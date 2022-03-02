@@ -24,7 +24,7 @@ This repository is actively seeking projects from students.
 All subdirectories and files of this repository should be written as such:
 
 ```text
-/<Course Code>_<Course Name>/<Year Undertaken>/README.md
+/<Course Code>_<Course Name>/<Calendar Year Undertaken>/README.md
 ```
 
 An example is given below:
