@@ -5,6 +5,7 @@
   - [Contributing](#contributing)
     - [Repository Structure](#repository-structure)
     - [Pull Requests](#pull-requests)
+    - [Branch Naming](#branch-naming)
 
 ## Foreword
 
@@ -35,3 +36,11 @@ An example is given below:
 ### Pull Requests
 
 Please submit the links to your project by forking the repository and adding your changes in as few commits as possible. Please follow the structure in the sample directory.
+
+### Branch Naming
+
+All contribution branches are to be named as such:
+
+- **Contribution**: `contribution-<yourname>`
+
+- **Bug**: `bug-yourname-<nature of bug>`, eg. `bug-bhargav-broken-links`
