@@ -3,9 +3,11 @@
 - [DSAI Projects](#dsai-projects)
   - [Foreword](#foreword)
   - [Contributing](#contributing)
+    - [Installation instructions](#installation-instructions)
     - [Repository Structure](#repository-structure)
     - [Pull Requests](#pull-requests)
     - [Branch Naming](#branch-naming)
+    - [Commit Message](#commit-message)
 
 ## Foreword
 
@@ -18,6 +20,20 @@ _**Disclaimer**_: The maintainers of this repository do not condone plagarism. A
 ## Contributing
 
 This repository is actively seeking projects from students. Please read this document carefully before contributing.
+
+### Installation instructions
+
+Ensure that you have [pre-commit](https://pre-commit.com) installed on your machine.
+
+```bash
+pip install pre-commit
+```
+
+After cloning the repository, install the pre-commit hook.
+
+```bash
+pre-commit install
+```
 
 ### Repository Structure
 
@@ -44,3 +60,11 @@ All contribution branches are to be named as such:
 - **Contribution**: `contribution-<yourname>`
 
 - **Bug**: `bug-yourname-<nature of bug>`, eg. `bug-bhargav-broken-links`
+
+### Commit Message
+
+If you are creating a Pull Request that fixes an Issue, include the issue number in the commit message as such:
+
+```text
+[#3] Fixed infinite loop
+```
