@@ -1,5 +1,7 @@
 # DSAI Projects
 
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/NTU-DSAI/DSAI-Projects/master.svg)](https://results.pre-commit.ci/latest/github/NTU-DSAI/DSAI-Projects/master)
+
 - [DSAI Projects](#dsai-projects)
   - [Foreword](#foreword)
   - [Contributing](#contributing)
